@@ -18,6 +18,7 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=white" />
   <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=plastic&logo=nestjs&logoColor=white" />
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=plastic&logo=angular&logoColor=white" />
+  <img alt="angular" src="https://img.shields.io/badge/-Vue-4FC08D?style=plastic&logo=vuedotjs&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=plastic&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white" />
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=plastic&logo=brave&logoColor=white" />
@@ -26,4 +27,5 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=plastic&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=plastic&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=plastic&logo=Node.js&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Tailwind CSS-06B6D4?style=plastic&logo=tailwindcss&logoColor=white" />
 </p>
